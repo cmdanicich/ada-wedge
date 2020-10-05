@@ -4,6 +4,8 @@ WedgeZipOfZips_Small.zip
 *.sqbpro
 WedgeZipFiles/*
 WedgeZipOfZips_Small/*
+holder/*
+temp/*
 wedge_clean/*
 WedgeZips/*
 

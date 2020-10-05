@@ -4,6 +4,8 @@ WedgeZipOfZips_Small.zip
 *.sqbpro
 WedgeZipFiles/*
 WedgeZipOfZips_Small/*
+wedge_clean/*
+WedgeZips/*
 
 
 # Byte-compiled / optimized / DLL files

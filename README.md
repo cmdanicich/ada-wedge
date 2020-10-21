@@ -4,18 +4,18 @@ Python, Jupyter Notebook, Google Big Query
 
 File ____ contains code to complete each task 
 
-# Task 1
+## Task 1
 For task one, the following items are done:
 - unzips the large .csv files 
 - cleans the files by removing nulls, placing headers on all files, and changing delimiters to comma separation
 
-# Task 2
+## Task 2
 In task two, the following items are completed
 - connect files to GBQ database
 - write owner querey from GBQ to Python in order to connect the two
 - Use pythong to pull queries and write to .txt files for analysis
 
-# Task 3 
+## Task 3 
 In task three, we complete the following
 - create a new database "__________(database name)"
 - run the following three queries from GBQ 
